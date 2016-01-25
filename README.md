@@ -1,5 +1,6 @@
 # WeMosHttpDimmer
-The WeMos D1 is an Arduino Compatible board based on the ESP8266 WiFi Module. For more info on this board go to 
+The WeMos D1 is an Arduino Compatible board based on the ESP8266 WiFi Module. 
+For more info on this board go to 
 http://www.wemos.cc/wiki/doku.php?id=en:start .
 This board can be programmed using the Arduino IDE after specifying the WeMos D1 as the board.
 NOTE: that the WeMos D1 board must be added to the Arduino IDE in order for this to work.
