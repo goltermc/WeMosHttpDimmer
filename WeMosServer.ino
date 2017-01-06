@@ -10,8 +10,8 @@
 #include <ESP8266WebServer.h>
 
 // Existing WiFi network
-const char* ssid     = "CenturyLink5951";
-const char* password = "wi987ec6yu7326";
+const char* ssid     = "your routers ssid";
+const char* password = "your routers password";
 // Note brightness is reversed
 const int   ledPin = BUILTIN_LED;  // the onboard LED
 
